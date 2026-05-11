@@ -122,3 +122,6 @@ The frontend calls `POST /predict` on the backend. Expected response shape:
 ```
 
 See full API docs at `http://localhost:8000/docs` when the backend is running.
+
+## Demo video:
+https://youtu.be/3YQESG7gYVY
